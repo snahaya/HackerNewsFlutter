@@ -1,4 +1,4 @@
-# hackazone
+# HackerNews
 
 The Hacker News Search Flutter app allows users to search for Hacker News posts seamlessly. The intuitive home screen features a search field, providing instant results fetched from the Hacker News API. Tapping on a result navigates to a detailed post screen, displaying title, points, and a list of comments. The app combines functionality with an elegant UI.
 
